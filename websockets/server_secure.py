@@ -1,6 +1,9 @@
 #!/usr/bin/env python
 
 """Secure WebSocket server from [Encrypt connections](https://websockets.readthedocs.io/en/stable/intro/quickstart.html#encrypt-connections) tutorial
+usage:
+- run server_secure.py
+- run client_secure.py
 """
 
 import asyncio
