@@ -9,7 +9,10 @@ sudo pip3 install websockets
 command
 
 
-## Secure WebSocket sample
+`ws_client.html`: Web WebSocket sample client, can be used with echo server implementation `echo.py`.
+
+
+## Secure WebSockets
 
 `server_secure.py`: implements Secure WebSocket server from [Encrypt connections](https://websockets.readthedocs.io/en/stable/intro/quickstart.html#encrypt-connections) tutorial
 
