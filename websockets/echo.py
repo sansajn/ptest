@@ -22,6 +22,7 @@ async def echo(websocket, path):
 		await websocket.send(message)
 
 async def main():
+	print('listenning on ws://localhost:8765 address')
 	async with websockets.serve(echo, "localhost", 8765):
 		await asyncio.Future()  # run forever
 
