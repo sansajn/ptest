@@ -1,5 +1,6 @@
 # python test stuff ...
 
-python2: samples for python2
+python2: python2 samples
+python3: python3 samples
 
 Adam Hlavatovic
