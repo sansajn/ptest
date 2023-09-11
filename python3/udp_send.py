@@ -1,4 +1,4 @@
-# UDP socket sending sample
+# UDP socket sending sample (for receiver sample see `udp_recv.py`)
 import socket
 
 HOST = 'localhost'
